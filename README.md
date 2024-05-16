@@ -22,3 +22,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
     how to store temporary data in Redis
     how to setup and use a background worker
 
+
+to start a local redis server" 
+
+```
+redis-server
+```
